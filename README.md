@@ -1,2 +1,3 @@
 # Hello world in Golang
-![image](https://github.com/Mohsecurity/hello-go-/assets/147415543/67e0c4cd-2f69-4ef3-9e92-7138d5b250e1)
+
+![image](https://github.com/Mohsecurity/hello-go-/assets/147415543/5a9a4076-9b74-4bde-9862-80a127bf7772)
